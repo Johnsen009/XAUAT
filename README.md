@@ -2,6 +2,6 @@
 
 Intelligent Building
 
-Building energy conservation
+Building Energy Conservation
 
 Zero Energy Consumption Building
